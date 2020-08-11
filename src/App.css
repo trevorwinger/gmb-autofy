@@ -1,9 +1,9 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 25vmin;
   pointer-events: none;
 }
 
@@ -22,6 +22,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
+}
+
+.App-body {
+  background-color: #282c34;
+  min-height: 100vh;
+  color:white;
+  font-size: calc(10px + 2vmin);
 }
 
 .App-link {
@@ -36,3 +44,9 @@
     transform: rotate(360deg);
   }
 }
+
+* {    
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
