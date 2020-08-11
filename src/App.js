@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Options from './Components/Options';
 
 function App() {
   var options = ['Cherry Roofing is Vancouver, WA\'s top Roofing Contractor. Contact us today to get an estimate on your next roof replacement or roof repair!',
@@ -11,7 +12,7 @@ function App() {
 
   var keywords = ['residential roofing', 'roofing contractor', 'residential roofing contractor', 'local roofing company', 
   'roofing', 'naples roofer', 'roof repair', 'roof replacement', 'flat roofing', 'shingle roofing', 'tile roofing'];
-  
+
   const [brand, setBrand] = useState('');
   const [brandLocation, setBrandLocation] = useState('');
 
@@ -28,17 +29,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Automate GMB Stuff</h1>
+        
+        <h1>GMB-Autofy</h1>
         <div>
-          <h3>Brand</h3>
+          <h2>Brand</h2>
           <input value={brand} onChange={handleBrandChange}/>
         </div>
         <div>
-          <h3>Location</h3>
-          <input value={brandLocation} onChange={setBrandLocation} />
+          <h2>Location</h2>
+          <input value={brandLocation} onChange={handleBrandLocationChange} />
         </div>
-        <p>keywords.join()</p>
+        <h2>Keywords</h2>
+        <p>{keywords.join()}</p>
+        <Options loc={brandLocation} brand={brand} />
+        <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
   );
