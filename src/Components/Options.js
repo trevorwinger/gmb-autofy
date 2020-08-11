@@ -2,9 +2,6 @@ import React from 'react';
 
 
 const Options = (props) => {
-    var options = [
-  'Allstate Exteriors is one of Ohio\'s leading Roofing Contractors. We specialize in everything from Residential to Commercial. Contact us today!'];
-
   const s1 = props.brand + ' is ' + props.loc + '\'s top Roofing Contractor. Contact us today to get an estimate on your next roof replacement or roof repair!';
   const s2 = props.brand + ' is the leading residential roofing contractor in the ' + props.loc + ' area. Contact us today about your next roofing project!';
   const s3 = 'Experienced, reliable roofers near you. ' + props.brand + ' provides ' + props.loc + ' with roof repair & replacement, backed by outstanding customer service.';
