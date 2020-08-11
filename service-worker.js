@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gmb-autofy/precache-manifest.6bed96a8315e83ec2ab6363a97eafbc5.js"
+  "/gmb-autofy/precache-manifest.aa1213f96a55baf9e09d2d61ae63371b.js"
 );
 
 self.addEventListener('message', (event) => {
