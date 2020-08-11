@@ -21,7 +21,7 @@ function App() {
     setBrandLocation(event.target.value);
   }
 
-  const introStyle = {margin: 50}
+  const introStyle = {margin: 5}
 
   return (
 
