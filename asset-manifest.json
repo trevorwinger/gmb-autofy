@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/gmb-autofy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/github.io/gmb-autofy/static/js/main.b1c1228c.chunk.js",
-    "main.js.map": "/github.io/gmb-autofy/static/js/main.b1c1228c.chunk.js.map",
-    "runtime-main.js": "/github.io/gmb-autofy/static/js/runtime-main.014a229e.js",
-    "runtime-main.js.map": "/github.io/gmb-autofy/static/js/runtime-main.014a229e.js.map",
-    "static/js/2.c89a7dbb.chunk.js": "/github.io/gmb-autofy/static/js/2.c89a7dbb.chunk.js",
-    "static/js/2.c89a7dbb.chunk.js.map": "/github.io/gmb-autofy/static/js/2.c89a7dbb.chunk.js.map",
-    "index.html": "/github.io/gmb-autofy/index.html",
-    "precache-manifest.c98359b1ae42f57a1407a486d6402e11.js": "/github.io/gmb-autofy/precache-manifest.c98359b1ae42f57a1407a486d6402e11.js",
-    "service-worker.js": "/github.io/gmb-autofy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/github.io/gmb-autofy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c89a7dbb.chunk.js.LICENSE.txt": "/github.io/gmb-autofy/static/js/2.c89a7dbb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/github.io/gmb-autofy/static/media/logo.5d5d9eef.svg"
+    "main.css": "/gmb-autofy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gmb-autofy/static/js/main.7eac37c7.chunk.js",
+    "main.js.map": "/gmb-autofy/static/js/main.7eac37c7.chunk.js.map",
+    "runtime-main.js": "/gmb-autofy/static/js/runtime-main.2ee7f655.js",
+    "runtime-main.js.map": "/gmb-autofy/static/js/runtime-main.2ee7f655.js.map",
+    "static/js/2.c89a7dbb.chunk.js": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js",
+    "static/js/2.c89a7dbb.chunk.js.map": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js.map",
+    "index.html": "/gmb-autofy/index.html",
+    "precache-manifest.d158607ebfdd05affb55fd01b15f4d72.js": "/gmb-autofy/precache-manifest.d158607ebfdd05affb55fd01b15f4d72.js",
+    "service-worker.js": "/gmb-autofy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gmb-autofy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c89a7dbb.chunk.js.LICENSE.txt": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gmb-autofy/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.014a229e.js",
+    "static/js/runtime-main.2ee7f655.js",
     "static/js/2.c89a7dbb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b1c1228c.chunk.js"
+    "static/js/main.7eac37c7.chunk.js"
   ]
 }
