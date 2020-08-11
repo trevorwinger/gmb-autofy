@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gmb-autofy/static/css/main.39e71c30.chunk.css",
-    "main.js": "/gmb-autofy/static/js/main.6de18c44.chunk.js",
-    "main.js.map": "/gmb-autofy/static/js/main.6de18c44.chunk.js.map",
+    "main.js": "/gmb-autofy/static/js/main.12a5b432.chunk.js",
+    "main.js.map": "/gmb-autofy/static/js/main.12a5b432.chunk.js.map",
     "runtime-main.js": "/gmb-autofy/static/js/runtime-main.2ee7f655.js",
     "runtime-main.js.map": "/gmb-autofy/static/js/runtime-main.2ee7f655.js.map",
     "static/js/2.c89a7dbb.chunk.js": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js",
     "static/js/2.c89a7dbb.chunk.js.map": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js.map",
     "index.html": "/gmb-autofy/index.html",
-    "precache-manifest.aa1213f96a55baf9e09d2d61ae63371b.js": "/gmb-autofy/precache-manifest.aa1213f96a55baf9e09d2d61ae63371b.js",
+    "precache-manifest.6e9d2ff2a4fff5c2ff86eec006e9faba.js": "/gmb-autofy/precache-manifest.6e9d2ff2a4fff5c2ff86eec006e9faba.js",
     "service-worker.js": "/gmb-autofy/service-worker.js",
     "static/css/main.39e71c30.chunk.css.map": "/gmb-autofy/static/css/main.39e71c30.chunk.css.map",
     "static/js/2.c89a7dbb.chunk.js.LICENSE.txt": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2ee7f655.js",
     "static/js/2.c89a7dbb.chunk.js",
     "static/css/main.39e71c30.chunk.css",
-    "static/js/main.6de18c44.chunk.js"
+    "static/js/main.12a5b432.chunk.js"
   ]
 }
