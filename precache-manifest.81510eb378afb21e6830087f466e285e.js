@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de54e0e6a2c53b24145a3ff63e86ece8",
+    "revision": "261069c5851764e82cb8bea2a7ab4f7c",
     "url": "/gmb-autofy/index.html"
   },
   {
-    "revision": "3dc2f44d21a9649a0b0b",
+    "revision": "2a0576212a6e75a83572",
     "url": "/gmb-autofy/static/css/main.39e71c30.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dc2f44d21a9649a0b0b",
-    "url": "/gmb-autofy/static/js/main.12a5b432.chunk.js"
+    "revision": "2a0576212a6e75a83572",
+    "url": "/gmb-autofy/static/js/main.88fbc4d2.chunk.js"
   },
   {
     "revision": "ee9d5c62b1a32aabe4dd",
