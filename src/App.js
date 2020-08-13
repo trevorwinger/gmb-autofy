@@ -61,13 +61,6 @@ function App() {
         </div>
 
         <div style={introStyle}>
-          <h2>Keywords</h2>
-          <p>{keywords.join()}</p>
-          <br></br>
-          <br></br>
-        </div>
-
-        <div style={introStyle}>
           <Keywords loc={brandLocation} />
           <Options loc={brandLocation} brand={brand} />
         </div>
