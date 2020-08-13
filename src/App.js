@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Options from './Components/Options';
+import Keywords from './Components/Keywords';
 
 function App() {
 
@@ -67,6 +68,7 @@ function App() {
         </div>
 
         <div style={introStyle}>
+          <Keywords loc={brandLocation} />
           <Options loc={brandLocation} brand={brand} />
         </div>
       </body>
