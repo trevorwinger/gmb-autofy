@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Options from './Components/Options';
 import Keywords from './Components/Keywords';
+import InputValueController from './Components/InputValueController'
 
 function App() {
 
@@ -40,6 +41,8 @@ function App() {
             <div className="flex-child">
             <h2>Location</h2>
             <input value={brandLocation} onChange={handleBrandLocationChange} />
+
+            <InputValueController value={brand} onChange={handleBrandChange} />
           </div>
           </div>
 
