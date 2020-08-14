@@ -42,7 +42,7 @@ function App() {
             <h2>Location</h2>
             <input value={brandLocation} onChange={handleBrandLocationChange} />
 
-            <InputValueController value={brand} onChange={handleBrandChange} />
+            <InputValueController title="Test" value={brand} onChange={handleBrandChange} />
           </div>
           </div>
 
