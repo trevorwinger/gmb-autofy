@@ -34,16 +34,12 @@ function App() {
           <div className="flex-container">
 
             <div className="flex-child">
-              <h2>Brand</h2>
-              <input value={brand} onChange={handleBrandChange}/>
+              <InputValueController title="Brand" value={brand} onChange={handleBrandChange} />
             </div>
 
             <div className="flex-child">
-            <h2>Location</h2>
-            <input value={brandLocation} onChange={handleBrandLocationChange} />
-
-            <InputValueController title="Test" value={brand} onChange={handleBrandChange} />
-          </div>
+              <InputValueController title="Location" value={location} onChange={handleBrandLocationChange} />
+            </div>
           </div>
 
           <div>
