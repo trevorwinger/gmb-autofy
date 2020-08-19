@@ -38,7 +38,7 @@ function App() {
             </div>
 
             <div className="flex-child">
-              <InputValueController title="Location" value={location} onChange={handleBrandLocationChange} />
+              <InputValueController title="Location" value={brandLocation} onChange={handleBrandLocationChange} />
             </div>
           </div>
 
