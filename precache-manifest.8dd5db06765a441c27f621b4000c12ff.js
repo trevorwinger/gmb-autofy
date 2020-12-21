@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "971313fde2d3b5185ad44ac5621da36e",
+    "revision": "f86ef334087b6c5bd19ff19e4b479a45",
     "url": "/gmb-autofy/index.html"
   },
   {
-    "revision": "c692379e3139c865a1ab",
-    "url": "/gmb-autofy/static/css/main.1aa896a9.chunk.css"
+    "revision": "d6395664927e1c3cda60",
+    "url": "/gmb-autofy/static/css/main.b1ceb3ec.chunk.css"
   },
   {
     "revision": "11b445564ef34dffe3e6",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gmb-autofy/static/js/2.c89a7dbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c692379e3139c865a1ab",
-    "url": "/gmb-autofy/static/js/main.6fdafcfd.chunk.js"
+    "revision": "d6395664927e1c3cda60",
+    "url": "/gmb-autofy/static/js/main.f886071c.chunk.js"
   },
   {
     "revision": "ee9d5c62b1a32aabe4dd",
     "url": "/gmb-autofy/static/js/runtime-main.2ee7f655.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/gmb-autofy/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/gmb-autofy/static/media/logo.ee7cd8ed.svg"
   }
 ]);
